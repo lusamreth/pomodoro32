@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lusamreth/DogAPi.git/static/css/main.35da7e1e.css",
+    "main.js": "/lusamreth/DogAPi.git/static/js/main.e93dee15.js",
+    "static/media/sea.jpg": "/lusamreth/DogAPi.git/static/media/sea.c8ee46c36ac9640f0568.jpg",
+    "index.html": "/lusamreth/DogAPi.git/index.html",
+    "main.35da7e1e.css.map": "/lusamreth/DogAPi.git/static/css/main.35da7e1e.css.map",
+    "main.e93dee15.js.map": "/lusamreth/DogAPi.git/static/js/main.e93dee15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35da7e1e.css",
+    "static/js/main.e93dee15.js"
+  ]
+}
